@@ -1,2 +1,17 @@
-# Flower-Image-Classifier
-This project is a deep learning-based image classifier that predicts the category of a flower from an uploaded image. here I trained a CNN with TensorFlow and Keras to recognizethe type of flower. It demonstrates how deep learning can be applied to real-world image classification tasks.
+# Flower Image Classifier
+
+A deep learning model to classify different types of flowers using Convolutional Neural Networks (CNNs) in Python.
+
+## Project Overview
+
+This project is built to classify flower species using image data. It uses a CNN architecture trained on a dataset of labeled flower images. The model can recognize multiple classes like roses, tulips, sunflowers, etc.
+
+##Author
+**Warda Aziz**
+
+## Tools & Technologies
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- Google Colab Notebook
